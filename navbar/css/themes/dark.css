@@ -1,0 +1,24 @@
+body {
+    background-color: #000;
+}
+.navbar {
+    background-color: #1f1f1f;
+    border: 1px solid #9A9A9A;
+}
+.navbar * {
+    color: #fff;
+}
+
+
+.navbar ul li a {
+    color: #fff;
+    border-left: 1px solid #9A9A9A;
+}
+
+.navbar ul li:last-child a {
+    border-right: 1px solid #9A9A9A;
+}
+
+.navbar ul li a:hover  {
+    text-shadow: 0 1px 0 #000;
+}

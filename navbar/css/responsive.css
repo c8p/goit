@@ -1,0 +1,35 @@
+@media screen and (max-width: 768px){
+
+    .navbar {
+        text-align: center;
+    }
+
+    .navbar * {
+        display: block;
+    }
+
+    .navbar ul li a {
+        width: 100%;
+        border: none;
+    }
+
+    .navbar ul li:last-child a {
+        border-right: none;
+    }
+
+    .navbar ul li a:hover {
+        background-color: #f0f0f0;
+    }
+}
+
+@media screen and (min-width: 1280px){
+
+    .navbar ul li:last-child a {
+        border-right: none;
+    }
+
+    .navbar ul {
+        position: relative;
+        float: right;
+    }
+}
