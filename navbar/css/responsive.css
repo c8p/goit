@@ -28,8 +28,13 @@
         border-right: none;
     }
 
-    .navbar ul {
-        position: relative;
+    .navbar  {
+        display: table;
+        width: 100%;
+        /*position: relative;*/
+        /*float: right;*/
+    }
+    .wrapper {
         float: right;
     }
 }
