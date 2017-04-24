@@ -4,7 +4,7 @@
       - Info about the card compnent, you can find on (https://material.io/guidelines/components/cards.html#)
  
 Example of code structure, you can find on:
-(https://codepen.io/tag/material%20card/)
+(https://codepen.io/tag/material%20card/ls)
 
 
 ### 2. Create 2 themes (black and white) for chip component.  

@@ -1,0 +1,35 @@
+body {
+    font-size: 16px;
+    font-family: Open Sans,  Tahoma;
+}
+img {
+    width: 100%;
+}
+
+.card {
+    box-shadow: 0 0 4px #808080;
+    width: 30vw;
+}
+
+
+.wrapper {
+    padding: 5px 20px;
+}
+
+.wrapper::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.btn_wrapper {
+    float: right;
+}
+
+.btn {
+    text-transform: uppercase;
+    margin: 5px;
+    border: none;
+    background-color: white;
+    font-weight: 700;
+    font-size: 16px;
+}
