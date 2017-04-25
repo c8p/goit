@@ -1,0 +1,22 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+.hero {
+    padding: 60px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eeeeee;
+    border-radius: 6px;
+    margin-bottom: 6px;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #0044cc;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 6px;
+    display: inline-block;
+    cursor: pointer;
+}
